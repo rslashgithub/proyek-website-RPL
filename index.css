@@ -1,0 +1,3 @@
+body{
+    background-color: color-mix(in srgb-linear,red 20%, blue 20%);
+}
